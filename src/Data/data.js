@@ -163,7 +163,6 @@ export const data = [
     image: 'https://images.pexels.com/photos/806361/pexels-photo-806361.jpeg?auto=compress&cs=tinysrgb&w=600',
     price:'4000',
 },
-
 {
     id: 24,
     name: 'Creamy Salad',
@@ -171,7 +170,6 @@ export const data = [
     image: 'https://images.pexels.com/photos/2092897/pexels-photo-2092897.jpeg?auto=compress&cs=tinysrgb&w=600',
     price:'4000',
 },
-
 {
     id: 25,
     name: 'Fried Chicken',
@@ -179,7 +177,6 @@ export const data = [
     image: 'https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600',
     price:'2000',
 },
-
 {
     id: 26,
     name: 'Crunchy Chicken',
@@ -208,89 +205,74 @@ export const category = [
     {
         id: 1,
         name: 'burger',
-        image: 'https://images.pexels.com/photos/3616956/pexels-photo-3616956.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
+        image: 'https://images.pexels.com/photos/3616956/pexels-photo-3616956.jpeg?auto=compress&cs=tinysrgb&w=600',      
     },
     {
         id: 2,
         name: 'burger',
         image: 'https://images.pexels.com/photos/3616956/pexels-photo-3616956.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     {
         id: 3,
         name: 'burger',
         image: 'https://images.pexels.com/photos/3616956/pexels-photo-3616956.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     {
         id: 4,
         name: 'burger',
         image: 'https://images.pexels.com/photos/3616956/pexels-photo-3616956.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     {
         id: 5,
         name: 'chicken',
         image: 'https://images.pexels.com/photos/3616956/pexels-photo-3616956.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     {
         id: 6,
         name: 'chicken',
         image: 'https://images.pexels.com/photos/3616956/pexels-photo-3616956.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     {
         id: 7,
         name: 'chicken',
         image: 'https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     {
         id: 8,
         name: 'chicken',
         image: 'https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     {
         id: 9,
         name: 'Inche Chesseburger',
         image: 'https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     {
         id: 10,
         name: 'Inche Chesseburger',
         image: 'https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     {
         id: 11,
         name: 'Inche Chesseburger',
         image: 'https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
-    
     {
         id: 12,
         name: 'Inche Chesseburger',
-        image: 'https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
+        image: 'https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=600',  
     },
     
     {
         id: 13,
         name: 'Inche Chesseburger',
         image: 'https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
     },
     
     {
         id: 14,
         name: 'Inche Chesseburger',
-        image: 'https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=600',
-        
+        image: 'https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=600',    
     },
     ];
     
